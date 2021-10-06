@@ -19,6 +19,19 @@ h2 {
     color: red;
 }
 
+
+
+
+/*/
+
+In h1 & h2 the font was black, which is impossible to see through the multicolored picture of the backround.
+I decided to try if typing the command "color:_______" would work, and it did.
+
+I don't like the red color but at least I can see the changes now.
+
+/*/
+
+
 button {
     border: none;
     padding-top: 10px;
