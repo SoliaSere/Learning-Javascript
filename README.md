@@ -11,5 +11,22 @@ https://scrimba.com/learn/learnjavascript
 
 
 
-
 Unfortunately the teacher didn't say which programs I had to download to write the code, and what I had to do exactly 'behind the scenes so to speak, so I ended up downloading Visual Studio Code.
+
+
+
+Error:
+
+I couldn't use the console to verify my console.log command 
+
+
+I tried downloading the Code Runner extension in VSC but it kept sending an error when I tried to run the code
+
+
+```
+let count = 0
+
+console.log(count)
+
+```
+Solution: Install node.js and tpm on my laptop.
